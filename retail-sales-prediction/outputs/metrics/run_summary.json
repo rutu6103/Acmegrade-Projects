@@ -1,0 +1,7 @@
+{
+  "best_model": "Tuned LightGBM",
+  "cv_r2_mean_log": 0.7304061550304257,
+  "test_r2_log": 0.7450822248233837,
+  "test_mae_sales": 734.2143598707731,
+  "test_rmse_sales": 1076.6425718260568
+}

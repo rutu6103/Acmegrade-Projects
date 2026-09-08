@@ -1,0 +1,24 @@
+# Raw datasets are obtained from their original sources
+**/data/*.csv
+**/data/*.xlsx
+!**/data/README.md
+!**/data/.gitkeep
+
+# Generated models and CatBoost working logs
+**/outputs/models/*.joblib
+**/outputs/models/*.pkl
+**/outputs/models/*.cbm
+**/catboost_info/
+catboost_info/
+*.pkl
+
+# Python and notebook caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS/editor files
+.DS_Store
+.vscode/
