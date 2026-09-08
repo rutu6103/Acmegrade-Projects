@@ -51,4 +51,4 @@ Generated figures, metrics, predictions and fitted pipelines are written to the 
 
 ## Author
 
-Rutuja Kadam — [GitHub profile](https://github.com/rutu6103)
+Rutuja Kadam | BSc Statistics
